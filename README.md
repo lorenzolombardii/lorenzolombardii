@@ -71,9 +71,9 @@
 
 ---
 
-## GitHub Streak
+<h2 align="center">GitHub Streak</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://git.io/streak-stats">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lorenzolombardii&amp;theme=dark&amp;background=0D1117&amp;border=30363D" />
