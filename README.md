@@ -59,20 +59,12 @@
   <img alt="SNMP" src="https://img.shields.io/badge/SNMP-Network%20management-334155?style=flat-square" />
 </p>
 
----
-
-## GitHub Streak
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lorenzolombardii&amp;theme=dark&amp;background=transparent&amp;hide_border=true&amp;ring=1F6FEB&amp;fire=1F6FEB&amp;currStreakLabel=1F6FEB" />
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=lorenzolombardii&amp;theme=default&amp;background=transparent&amp;hide_border=true&amp;ring=0969DA&amp;fire=0969DA&amp;currStreakLabel=0969DA" />
-      <img alt="Lorenzo's GitHub contribution streak" src="https://streak-stats.demolab.com?user=lorenzolombardii&amp;theme=default&amp;background=transparent&amp;hide_border=true&amp;ring=0969DA&amp;fire=0969DA&amp;currStreakLabel=0969DA" />
-    </picture>
+    <img alt="Lorenzo's GitHub contribution streak" src="https://streak-stats.demolab.com?user=lorenzolombardii&amp;theme=default&amp;background=transparent&amp;hide_border=true&amp;ring=0969DA&amp;fire=0969DA&amp;currStreakLabel=0969DA" />
   </a>
 </p>
----
 
 <p align="center">
   <img alt="GitHub profile views" src="https://komarev.com/ghpvc/?username=lorenzolombardii&color=E05C2A&style=flat-square&label=Profile+Views" />
