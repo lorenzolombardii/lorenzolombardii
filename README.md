@@ -46,28 +46,31 @@
 | **Diagnostics & commissioning** | Network analysis, integration testing, troubleshooting, field validation |
 | **Software & systems** | Python, PowerShell, Windows, Linux, embedded and networked devices |
 
-## Tools & technologies
+<h2 align="center">Tools & technologies</h2>
 
-**Development**
+<p align="center"><strong>Development</strong></p>
+<p align="center">
+  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" /></a>
+  <a href="https://learn.microsoft.com/powershell/"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&amp;logo=powershell&amp;logoColor=white" /></a>
+  <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" /></a>
+</p>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+<p align="center"><strong>Systems & tooling</strong></p>
+<p align="center">
+  <a href="https://www.kernel.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" /></a>
+  <a href="https://www.microsoft.com/windows"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&amp;logo=windows&amp;logoColor=white" /></a>
+  <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" /></a>
+  <a href="https://www.raspberrypi.com/"><img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&amp;logo=raspberrypi&amp;logoColor=white" /></a>
+  <a href="https://www.wireshark.org/"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&amp;logo=wireshark&amp;logoColor=white" /></a>
+</p>
 
-**Systems & tooling**
-
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/)
-[![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com/)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
-
-**Automation & networking**
-
-![IEC 61131-3](https://img.shields.io/badge/IEC%2061131--3-334155?style=flat-square)
-![Modbus TCP/RTU](https://img.shields.io/badge/Modbus-TCP%20%2F%20RTU-334155?style=flat-square)
-![IEC 61850](https://img.shields.io/badge/IEC%2061850-MMS-334155?style=flat-square)
-![SNMP](https://img.shields.io/badge/SNMP-Network%20management-334155?style=flat-square)
+<p align="center"><strong>Automation & networking</strong></p>
+<p align="center">
+  <img alt="IEC 61131-3" src="https://img.shields.io/badge/IEC%2061131--3-334155?style=flat-square" />
+  <img alt="Modbus TCP/RTU" src="https://img.shields.io/badge/Modbus-TCP%20%2F%20RTU-334155?style=flat-square" />
+  <img alt="IEC 61850" src="https://img.shields.io/badge/IEC%2061850-MMS-334155?style=flat-square" />
+  <img alt="SNMP" src="https://img.shields.io/badge/SNMP-Network%20management-334155?style=flat-square" />
+</p>
 
 ---
 
