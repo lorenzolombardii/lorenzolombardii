@@ -11,10 +11,6 @@
 </p>
 
 <p align="center">
-  I build software and engineering tools for industrial systems, focusing on automation, networking, diagnostics, and reliable system integration.
-</p>
-
-<p align="center">
   <a href="https://github.com/lorenzolombardii">
     <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -40,7 +36,7 @@
 
 **Systems & engineering**  
 ↳ Exploring embedded devices, Linux-based tooling, and self-hosted infrastructure  
-↳ Studying Electrical Engineering at the [University of Genoa](https://unige.it/)
+
 
 ---
 
