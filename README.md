@@ -59,10 +59,11 @@
   <img alt="SNMP" src="https://img.shields.io/badge/SNMP-Network%20management-334155?style=flat-square" />
 </p>
 
+---
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img alt="Lorenzo's GitHub contribution streak" src="https://streak-stats.demolab.com?user=lorenzolombardii&amp;theme=default&amp;background=transparent&amp;hide_border=true&amp;ring=0969DA&amp;fire=0969DA&amp;currStreakLabel=0969DA" />
+    <img alt="Lorenzo's GitHub contribution streak" src="https://streak-stats.demolab.com?user=lorenzolombardii&amp;theme=default&amp;background=transparent&amp;hide_border=true&amp;ring=0969DA&amp;fire=0969DA&amp;currStreakNum=797979&amp;sideNums=797979&amp;currStreakLabel=797979&amp;sideLabels=797979&amp;dates=797979&amp;excludeDaysLabel=797979&amp;stroke=797979" />
   </a>
 </p>
 
