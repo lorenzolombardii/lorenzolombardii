@@ -37,14 +37,34 @@
 
 ---
 
-## Engineering focus
+<h2 align="center">Engineering focus</h2>
 
-| Area | Experience |
-| --- | --- |
-| **Industrial automation** | PLC programming, IEC 61131-3 (Structured Text / Ladder Logic), HMI and alarm systems |
-| **Industrial communication** | Modbus TCP/RTU, IEC 61850 MMS, SNMP, TCP/IP, RS-422/RS-485 |
-| **Diagnostics & commissioning** | Network analysis, integration testing, troubleshooting, field validation |
-| **Software & systems** | Python, PowerShell, Windows, Linux, embedded and networked devices |
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">Area</th>
+      <th align="center">Experience</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><strong>Industrial automation</strong></td>
+      <td align="center">PLC programming, IEC 61131-3 (Structured Text / Ladder Logic), HMI and alarm systems</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Industrial communication</strong></td>
+      <td align="center">Modbus TCP/RTU, IEC 61850 MMS, SNMP, TCP/IP, RS-422/RS-485</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Diagnostics &amp; commissioning</strong></td>
+      <td align="center">Network analysis, integration testing, troubleshooting, field validation</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Software &amp; systems</strong></td>
+      <td align="center">Python, PowerShell, Windows, Linux, embedded and networked devices</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 align="center">Tools & technologies</h2>
 
