@@ -37,7 +37,7 @@
 
 ---
 
-<h2 align="center">Engineering focus</h2>
+## Engineering focus
 
 <table align="center">
   <thead>
@@ -66,7 +66,7 @@
   </tbody>
 </table>
 
-<h2 align="center">Tools & technologies</h2>
+## Tools & technologies
 
 <p align="center"><strong>Development</strong></p>
 <p align="center">
@@ -94,7 +94,7 @@
 
 ---
 
-<h2 align="center">GitHub Streak</h2>
+## GitHub Streak
 
 <p align="center">
   <a href="https://git.io/streak-stats">
