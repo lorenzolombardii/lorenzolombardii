@@ -71,14 +71,14 @@
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
-<p align="center">
+<p align="left">
   <a href="https://git.io/streak-stats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lorenzolombardii&amp;theme=dark&amp;background=0D1117&amp;ring=E05C2A&amp;fire=E05C2A&amp;currStreakLabel=E05C2A&amp;border=30363D" />
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=lorenzolombardii&amp;theme=default&amp;background=FFFFFF&amp;ring=E05C2A&amp;fire=E05C2A&amp;currStreakLabel=E05C2A&amp;border=D0D7DE" />
-      <img alt="Lorenzo's GitHub contribution streak" src="https://streak-stats.demolab.com?user=lorenzolombardii&amp;theme=default&amp;background=FFFFFF&amp;ring=E05C2A&amp;fire=E05C2A&amp;currStreakLabel=E05C2A&amp;border=D0D7DE" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lorenzolombardii&amp;theme=dark&amp;background=0D1117&amp;border=30363D" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=lorenzolombardii&amp;theme=default&amp;background=FFFFFF&amp;border=D0D7DE" />
+      <img alt="Lorenzo's GitHub contribution streak" src="https://streak-stats.demolab.com?user=lorenzolombardii&amp;theme=default&amp;background=FFFFFF&amp;border=D0D7DE" />
     </picture>
   </a>
 </p>
