@@ -23,10 +23,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img alt="GitHub profile views" src="https://komarev.com/ghpvc/?username=lorenzolombardii&label=Profile%20views&color=64748b&style=flat-square" />
-</p>
-
 ---
 
 ## Now
@@ -74,6 +70,20 @@
 ![SNMP](https://img.shields.io/badge/SNMP-Network%20management-334155?style=flat-square)
 
 ---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img alt="Lorenzo's GitHub contribution streak" src="https://streak-stats.demolab.com?user=lorenzolombardii&theme=dark&background=0D1117&ring=E05C2A&fire=E05C2A&currStreakLabel=E05C2A&border=30363D" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img alt="GitHub profile views" src="https://komarev.com/ghpvc/?username=lorenzolombardii&color=E05C2A&style=flat-square&label=Profile+Views" />
+</p>
 
 <p align="center">
   <a href="https://github.com/lorenzolombardii">GitHub</a> ·
