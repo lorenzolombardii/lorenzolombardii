@@ -1,10 +1,12 @@
+<h1 align="left">Lorenzo Lombardi</h1>
+
+---
+
 <p align="center">
   <a href="https://github.com/lorenzolombardii">
     <img src="https://avatars.githubusercontent.com/u/199311833?v=4" width="110" alt="Lorenzo Lombardi's GitHub avatar" />
   </a>
 </p>
-
-<h1 align="center">Lorenzo Lombardi</h1>
 
 <p align="center">
   <strong>Software Engineer · Industrial Automation · Industrial Networking</strong>
