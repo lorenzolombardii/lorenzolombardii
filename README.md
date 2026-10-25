@@ -1,7 +1,5 @@
 <h1 align="left">Lorenzo Lombardi</h1>
 
----
-
 <p align="center">
   <a href="https://github.com/lorenzolombardii">
     <img src="https://avatars.githubusercontent.com/u/199311833?v=4" width="110" alt="Lorenzo Lombardi's GitHub avatar" />
@@ -13,9 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lorenzo-lombardi-55942126b/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://www.reddit.com/u/tclorenzo/s/4SUQ2I2jo7">
     <img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
@@ -116,6 +111,5 @@
 
 <p align="center">
   <a href="https://github.com/lorenzolombardii">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/lorenzo-lombardi-55942126b/">LinkedIn</a> ·
   <a href="https://www.reddit.com/u/tclorenzo/s/4SUQ2I2jo7">Reddit</a>
 </p>
