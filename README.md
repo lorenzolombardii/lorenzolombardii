@@ -18,6 +18,9 @@
   <a href="https://github.com/lorenzolombardii">
     <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/lorenzo-lombardi-55942126b/">
+    <img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://github.com/lorenzolombardii?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/lorenzolombardii?style=for-the-badge&logo=github&label=Followers&color=0e7490" />
   </a>
@@ -77,5 +80,6 @@
 
 <p align="center">
   <a href="https://github.com/lorenzolombardii">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/lorenzo-lombardi-55942126b/">LinkedIn</a> ·
   <a href="https://github.com/lorenzolombardii?tab=followers">Followers</a>
 </p>
