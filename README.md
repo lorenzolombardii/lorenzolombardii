@@ -73,12 +73,9 @@
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img alt="Lorenzo's GitHub streak — dark theme" src="https://streak-stats.demolab.com?user=lorenzolombardii&theme=dark&background=0D1117&ring=E05C2A&fire=E05C2A&currStreakLabel=E05C2A&border=30363D#gh-dark-mode-only" />
-    <img alt="Lorenzo's GitHub streak — light theme" src="https://streak-stats.demolab.com?user=lorenzolombardii&theme=default&background=FFFFFF&ring=E05C2A&fire=E05C2A&currStreakLabel=E05C2A&border=D0D7DE#gh-light-mode-only" />
-  </a>
-</p>
+[![GitHub Streak — dark mode](https://streak-stats.demolab.com?user=lorenzolombardii&theme=dark&background=0D1117&ring=E05C2A&fire=E05C2A&currStreakLabel=E05C2A&border=30363D#gh-dark-mode-only)](https://git.io/streak-stats)
+
+[![GitHub Streak — light mode](https://streak-stats.demolab.com?user=lorenzolombardii&theme=default&background=FFFFFF&ring=E05C2A&fire=E05C2A&currStreakLabel=E05C2A&border=D0D7DE#gh-light-mode-only)](https://git.io/streak-stats)
 
 ---
 
