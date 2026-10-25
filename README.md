@@ -73,9 +73,15 @@
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak — dark mode](https://streak-stats.demolab.com?user=lorenzolombardii&theme=dark&background=0D1117&ring=E05C2A&fire=E05C2A&currStreakLabel=E05C2A&border=30363D#gh-dark-mode-only)](https://git.io/streak-stats)
-
-[![GitHub Streak — light mode](https://streak-stats.demolab.com?user=lorenzolombardii&theme=default&background=FFFFFF&ring=E05C2A&fire=E05C2A&currStreakLabel=E05C2A&border=D0D7DE#gh-light-mode-only)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lorenzolombardii&amp;theme=dark&amp;background=0D1117&amp;ring=E05C2A&amp;fire=E05C2A&amp;currStreakLabel=E05C2A&amp;border=30363D" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=lorenzolombardii&amp;theme=default&amp;background=FFFFFF&amp;ring=E05C2A&amp;fire=E05C2A&amp;currStreakLabel=E05C2A&amp;border=D0D7DE" />
+      <img alt="Lorenzo's GitHub contribution streak" src="https://streak-stats.demolab.com?user=lorenzolombardii&amp;theme=default&amp;background=FFFFFF&amp;ring=E05C2A&amp;fire=E05C2A&amp;currStreakLabel=E05C2A&amp;border=D0D7DE" />
+    </picture>
+  </a>
+</p>
 
 ---
 
