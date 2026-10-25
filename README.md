@@ -10,16 +10,6 @@
   <strong>Software Engineer · Industrial Automation · Industrial Networking</strong>
 </p>
 
-<p align="center">
-  <a href="https://www.reddit.com/u/tclorenzo/s/4SUQ2I2jo7">
-    <img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-  </a>
-  <img alt="Email (coming soon)" src="https://img.shields.io/badge/Email-Coming%20Soon-64748B?style=for-the-badge&logo=gmail&logoColor=white" />
-  <a href="https://github.com/lorenzolombardii?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/lorenzolombardii?style=for-the-badge&color=181717&logo=github" />
-  </a>
-</p>
-
 ---
 
 ## Now
@@ -36,29 +26,29 @@
 
 ## Engineering focus
 
-<table align="center">
+<table width="100%" align="left">
   <thead>
     <tr>
-      <th align="center">Area</th>
-      <th align="center">Experience</th>
+      <th align="left">Area</th>
+      <th align="left">Experience</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center"><strong>Industrial automation</strong></td>
-      <td align="center">PLC programming, IEC 61131-3 (Structured Text / Ladder Logic), HMI and alarm systems</td>
+      <td align="left"><strong>Industrial automation</strong></td>
+      <td align="left">PLC programming, IEC 61131-3 (Structured Text / Ladder Logic), HMI and alarm systems</td>
     </tr>
     <tr>
-      <td align="center"><strong>Industrial communication</strong></td>
-      <td align="center">Modbus TCP/RTU, IEC 61850 MMS, SNMP, TCP/IP, RS-422/RS-485</td>
+      <td align="left"><strong>Industrial communication</strong></td>
+      <td align="left">Modbus TCP/RTU, IEC 61850 MMS, SNMP, TCP/IP, RS-422/RS-485</td>
     </tr>
     <tr>
-      <td align="center"><strong>Diagnostics &amp; commissioning</strong></td>
-      <td align="center">Network analysis, integration testing, troubleshooting, field validation</td>
+      <td align="left"><strong>Diagnostics &amp; commissioning</strong></td>
+      <td align="left">Network analysis, integration testing, troubleshooting, field validation</td>
     </tr>
     <tr>
-      <td align="center"><strong>Software &amp; systems</strong></td>
-      <td align="center">Python, PowerShell, Windows, Linux, embedded and networked devices</td>
+      <td align="left"><strong>Software &amp; systems</strong></td>
+      <td align="left">Python, PowerShell, Windows, Linux, embedded and networked devices</td>
     </tr>
   </tbody>
 </table>
@@ -110,6 +100,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lorenzolombardii">GitHub</a> ·
-  <a href="https://www.reddit.com/u/tclorenzo/s/4SUQ2I2jo7">Reddit</a>
+  <a href="https://github.com/lorenzolombardii">GitHub</a>
 </p>
