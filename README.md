@@ -26,32 +26,12 @@
 
 ## Engineering focus
 
-<table width="100%" align="left">
-  <thead>
-    <tr>
-      <th align="left">Area</th>
-      <th align="left">Experience</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="left"><strong>Industrial automation</strong></td>
-      <td align="left">PLC programming, IEC 61131-3 (Structured Text / Ladder Logic), HMI and alarm systems</td>
-    </tr>
-    <tr>
-      <td align="left"><strong>Industrial communication</strong></td>
-      <td align="left">Modbus TCP/RTU, IEC 61850 MMS, SNMP, TCP/IP, RS-422/RS-485</td>
-    </tr>
-    <tr>
-      <td align="left"><strong>Diagnostics &amp; commissioning</strong></td>
-      <td align="left">Network analysis, integration testing, troubleshooting, field validation</td>
-    </tr>
-    <tr>
-      <td align="left"><strong>Software &amp; systems</strong></td>
-      <td align="left">Python, PowerShell, Windows, Linux, embedded and networked devices</td>
-    </tr>
-  </tbody>
-</table>
+| Area | Experience |
+| :--- | :--- |
+| **Industrial automation** | PLC programming, IEC 61131-3 (Structured Text / Ladder Logic), HMI and alarm systems |
+| **Industrial communication** | Modbus TCP/RTU, IEC 61850 MMS, SNMP, TCP/IP, RS-422/RS-485 |
+| **Diagnostics & commissioning** | Network analysis, integration testing, troubleshooting, field validation |
+| **Software & systems** | Python, PowerShell, Windows, Linux, embedded and networked devices |
 
 ## Tools & technologies
 
@@ -62,7 +42,7 @@
   <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" /></a>
 </p>
 
-<p align="center"><strong>Systems & tooling</strong></p>
+<p align="center"><strong>Systems &amp; tooling</strong></p>
 <p align="center">
   <a href="https://www.kernel.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" /></a>
   <a href="https://www.microsoft.com/windows"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&amp;logo=windows&amp;logoColor=white" /></a>
@@ -71,7 +51,7 @@
   <a href="https://www.wireshark.org/"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&amp;logo=wireshark&amp;logoColor=white" /></a>
 </p>
 
-<p align="center"><strong>Automation & networking</strong></p>
+<p align="center"><strong>Automation &amp; networking</strong></p>
 <p align="center">
   <img alt="IEC 61131-3" src="https://img.shields.io/badge/IEC%2061131--3-334155?style=flat-square" />
   <img alt="Modbus TCP/RTU" src="https://img.shields.io/badge/Modbus-TCP%20%2F%20RTU-334155?style=flat-square" />
