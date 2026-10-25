@@ -66,13 +66,12 @@
 <p align="center">
   <a href="https://git.io/streak-stats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lorenzolombardii&amp;theme=dark&amp;background=0D1117&amp;border=30363D" />
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=lorenzolombardii&amp;theme=default&amp;background=FFFFFF&amp;border=D0D7DE" />
-      <img alt="Lorenzo's GitHub contribution streak" src="https://streak-stats.demolab.com?user=lorenzolombardii&amp;theme=default&amp;background=FFFFFF&amp;border=D0D7DE" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lorenzolombardii&amp;theme=dark&amp;background=transparent&amp;hide_border=true&amp;ring=1F6FEB&amp;fire=1F6FEB&amp;currStreakLabel=1F6FEB" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=lorenzolombardii&amp;theme=default&amp;background=transparent&amp;hide_border=true&amp;ring=0969DA&amp;fire=0969DA&amp;currStreakLabel=0969DA" />
+      <img alt="Lorenzo's GitHub contribution streak" src="https://streak-stats.demolab.com?user=lorenzolombardii&amp;theme=default&amp;background=transparent&amp;hide_border=true&amp;ring=0969DA&amp;fire=0969DA&amp;currStreakLabel=0969DA" />
     </picture>
   </a>
 </p>
-
 ---
 
 <p align="center">
