@@ -1,7 +1,7 @@
 <h1 align="left">Lorenzo Lombardi</h1>
 
 <p align="center">
-  <a href="https://github.com/lorenzolombardii"><img src="https://avatars.githubusercontent.com/u/199311833?v=4" width="90" alt="Lorenzo Lombardi's GitHub avatar" /></a>
+  <a href="https://github.com/lorenzolombardii"><img src="./assets/profile-photo.jpg" width="360" alt="Night photograph of illuminated buildings" /></a>
 </p>
 
 <p align="center">
