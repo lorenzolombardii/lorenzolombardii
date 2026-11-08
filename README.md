@@ -21,28 +21,28 @@
 
 <p align="center"><strong>Languages &amp; data</strong></p>
 <p align="center">
-  <span><a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" width="36" height="36" align="center" alt="Python" /></a>&nbsp;<sub>Python</sub></span>
+  <span><a href="https://www.python.org/"><img src="./icone/python.svg" width="36" height="36" align="center" alt="Python" /></a>&nbsp;<sub>Python</sub></span>
   &nbsp;&nbsp;
-  <span><a href="https://learn.microsoft.com/powershell/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/powershell/powershell-original.svg" width="36" height="36" align="center" alt="PowerShell" /></a>&nbsp;<sub>PowerShell</sub></span>
+  <span><a href="https://learn.microsoft.com/powershell/"><img src="./icone/powershell.svg" width="36" height="36" align="center" alt="PowerShell" /></a>&nbsp;<sub>PowerShell</sub></span>
   &nbsp;&nbsp;
-  <span><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/html5/html5-original.svg" width="36" height="36" align="center" alt="HTML" /></a>&nbsp;<sub>HTML</sub></span>
+  <span><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./icone/html.svg" width="36" height="36" align="center" alt="HTML" /></a>&nbsp;<sub>HTML</sub></span>
   &nbsp;&nbsp;
-  <span><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/css3/css3-original.svg" width="36" height="36" align="center" alt="CSS" /></a>&nbsp;<sub>CSS</sub></span>
+  <span><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./icone/css.svg" width="36" height="36" align="center" alt="CSS" /></a>&nbsp;<sub>CSS</sub></span>
   &nbsp;&nbsp;
-  <span><a href="https://www.json.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/json/json-original.svg" width="36" height="36" align="center" alt="JSON" /></a>&nbsp;<sub>JSON</sub></span>
+  <span><a href="https://www.json.org/"><img src="./icone/json.svg" width="36" height="36" align="center" alt="JSON" /></a>&nbsp;<sub>JSON</sub></span>
 </p>
 
 <p align="center"><strong>Systems &amp; tools</strong></p>
 <p align="center">
-  <span><a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" width="36" height="36" align="center" alt="Git" /></a>&nbsp;<sub>Git</sub></span>
+  <span><a href="https://git-scm.com/"><img src="./icone/git.svg" width="36" height="36" align="center" alt="Git" /></a>&nbsp;<sub>Git</sub></span>
   &nbsp;&nbsp;
-  <span><a href="https://www.kernel.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linux/linux-original.svg" width="36" height="36" align="center" alt="Linux" /></a>&nbsp;<sub>Linux</sub></span>
+  <span><a href="https://www.kernel.org/"><img src="./icone/linux.svg" width="36" height="36" align="center" alt="Linux" /></a>&nbsp;<sub>Linux</sub></span>
   &nbsp;&nbsp;
-  <span><a href="https://www.microsoft.com/windows"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/windows11/windows11-original.svg" width="36" height="36" align="center" alt="Windows" /></a>&nbsp;<sub>Windows</sub></span>
+  <span><a href="https://www.microsoft.com/windows"><img src="./icone/windows.svg" width="36" height="36" align="center" alt="Windows" /></a>&nbsp;<sub>Windows</sub></span>
   &nbsp;&nbsp;
-  <span><a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" width="36" height="36" align="center" alt="Docker" /></a>&nbsp;<sub>Docker</sub></span>
+  <span><a href="https://www.docker.com/"><img src="./icone/docker.svg" width="36" height="36" align="center" alt="Docker" /></a>&nbsp;<sub>Docker</sub></span>
   &nbsp;&nbsp;
-  <span><a href="https://www.raspberrypi.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/raspberrypi/raspberrypi-original.svg" width="36" height="36" align="center" alt="Raspberry Pi" /></a>&nbsp;<sub>Raspberry&nbsp;Pi</sub></span>
+  <span><a href="https://www.raspberrypi.com/"><img src="./icone/raspberrypi.svg" width="36" height="36" align="center" alt="Raspberry Pi" /></a>&nbsp;<sub>Raspberry&nbsp;Pi</sub></span>
   &nbsp;&nbsp;
   <span><a href="https://www.wireshark.org/"><img src="./icone/wireshark.svg" width="36" height="36" align="center" alt="Wireshark" /></a>&nbsp;<sub>Wireshark</sub></span>
 </p>
