@@ -25,11 +25,33 @@
   &nbsp;&nbsp;
   <span><a href="https://learn.microsoft.com/powershell/"><img src="./icone/powershell.svg" width="36" height="36" align="center" alt="PowerShell" /></a>&nbsp;<sub>PowerShell</sub></span>
   &nbsp;&nbsp;
+  <span><a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="./icone/c.svg" width="36" height="36" align="center" alt="C" /></a>&nbsp;<sub>C</sub></span>
+  &nbsp;&nbsp;
+  <span><a href="https://isocpp.org/"><img src="./icone/cplusplus.svg" width="36" height="36" align="center" alt="C++" /></a>&nbsp;<sub>C++</sub></span>
+  &nbsp;&nbsp;
   <span><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./icone/html.svg" width="36" height="36" align="center" alt="HTML" /></a>&nbsp;<sub>HTML</sub></span>
   &nbsp;&nbsp;
   <span><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./icone/css.svg" width="36" height="36" align="center" alt="CSS" /></a>&nbsp;<sub>CSS</sub></span>
   &nbsp;&nbsp;
   <span><a href="https://www.json.org/"><img src="./icone/json.svg" width="36" height="36" align="center" alt="JSON" /></a>&nbsp;<sub>JSON</sub></span>
+</p>
+
+<p align="center"><strong>Backend &amp; databases</strong></p>
+<p align="center">
+  <span><a href="https://flask.palletsprojects.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="./icone/flask-dark.svg" /><img src="./icone/flask.svg" width="36" height="36" align="center" alt="Flask" /></picture></a>&nbsp;<sub>Flask</sub></span>
+  &nbsp;&nbsp;
+  <span><a href="https://www.sqlite.org/"><img src="./icone/sqlite.svg" width="36" height="36" align="center" alt="SQLite" /></a>&nbsp;<sub>SQLite</sub></span>
+  &nbsp;&nbsp;
+  <span><a href="https://www.mysql.com/"><img src="./icone/mysql.svg" width="36" height="36" align="center" alt="MySQL" /></a>&nbsp;<sub>MySQL</sub></span>
+</p>
+
+<p align="center"><strong>Embedded &amp; microcontrollers</strong></p>
+<p align="center">
+  <span><a href="https://www.arduino.cc/en/software/"><img src="./icone/arduino.svg" width="36" height="36" align="center" alt="Arduino IDE" /></a>&nbsp;<sub>Arduino&nbsp;IDE</sub></span>
+  &nbsp;&nbsp;
+  <span><a href="https://platformio.org/"><img src="./icone/platformio.svg" width="36" height="36" align="center" alt="PlatformIO" /></a>&nbsp;<sub>PlatformIO</sub></span>
+  &nbsp;&nbsp;
+  <span><a href="https://docs.espressif.com/projects/esp-idf/en/stable/esp32/"><img src="./icone/esp32.svg" width="36" height="36" align="center" alt="ESP32 / ESP-IDF" /></a>&nbsp;<sub>ESP32&nbsp;/&nbsp;ESP-IDF</sub></span>
 </p>
 
 <p align="center"><strong>Systems &amp; tools</strong></p>
