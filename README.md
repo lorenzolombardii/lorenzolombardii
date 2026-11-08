@@ -28,8 +28,6 @@
   <span><a href="https://www.python.org/"><img src="./icone/python.svg" width="36" height="36" align="center" alt="Python" /></a>&nbsp;<sub>Python</sub></span>
   &nbsp;&nbsp;
   <span><a href="https://learn.microsoft.com/powershell/"><img src="./icone/powershell.svg" width="36" height="36" align="center" alt="PowerShell" /></a>&nbsp;<sub>PowerShell</sub></span>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/IEC%2061131--3%20%C2%B7%20ST%20%2F%20Ladder-334155?style=flat-square" alt="IEC 61131-3 · ST / Ladder" />
 </p>
 
 <p align="center"><strong>Web &amp; data formats</strong></p>
@@ -78,9 +76,9 @@
   <span><a href="https://www.docker.com/"><img src="./icone/docker.svg" width="36" height="36" align="center" alt="Docker" /></a>&nbsp;<sub>Docker</sub></span>
 </p>
 
-<p align="center"><strong>Networking &amp; diagnostics</strong></p>
+<p align="center"><strong>Industrial automation</strong></p>
 <p align="center">
-  <span><a href="https://www.wireshark.org/"><img src="./icone/wireshark.svg" width="36" height="36" align="center" alt="Wireshark" /></a>&nbsp;<sub>Wireshark</sub></span>
+  <img src="https://img.shields.io/badge/IEC%2061131--3%20%C2%B7%20ST%20%2F%20Ladder-334155?style=flat-square" alt="IEC 61131-3 · ST / Ladder" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Modbus%20TCP%2FRTU-334155?style=flat-square" alt="Modbus TCP/RTU" />
   &nbsp;&nbsp;
